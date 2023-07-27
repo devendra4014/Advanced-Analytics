@@ -1,3 +1,9 @@
 [submodule "N-gram-Text-Summarization"]
 	path = N-gram-Text-Summarization
 	url = https://github.com/devendra4014/N-gram-Text-Summarization
+[submodule "cement_prediction_model"]
+	path = cement_prediction_model
+	url = https://github.com/devendra4014/cement_prediction_model
+[submodule "project-amazon-webscraping"]
+	path = project-amazon-webscraping
+	url = https://github.com/devendra4014/project-amazon-webscraping
