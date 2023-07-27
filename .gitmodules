@@ -1,0 +1,3 @@
+[submodule "N-gram-Text-Summarization"]
+	path = N-gram-Text-Summarization
+	url = https://github.com/devendra4014/N-gram-Text-Summarization
